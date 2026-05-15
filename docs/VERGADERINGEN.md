@@ -35,3 +35,10 @@ Overzicht van besprekingen, afspraken en actiepunten per overleg.
 ---
 
 *Voeg vergadernotities toe door een tekstbestand te uploaden of de tekst te plakken en te zeggen: "📋 vergadering toevoegen".*
+15-5-2026
+
+Aanwezig Stephan, Paul, FD
+
+1.	Opening
+2.	Acties
+3.	WVTTK
